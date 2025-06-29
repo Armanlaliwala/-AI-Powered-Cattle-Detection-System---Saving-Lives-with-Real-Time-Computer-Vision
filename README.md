@@ -1,0 +1,2 @@
+# -AI-Powered-Cattle-Detection-System---Saving-Lives-with-Real-Time-Computer-Vision
+Stray cattle on roads are a major cause of accidents in India, leading to thousands of lives lost every year. Traditional livestock tracking is manual and inefficient. This project presents a lightweight, real-time object detection system that identifies cows using any basic camera feed — making roads safer and helping farmers monitor livestock.
